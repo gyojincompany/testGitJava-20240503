@@ -56,6 +56,8 @@ public class MainClass {
 		
 		System.out.println("문자열로 변환된 값 :" + numStr1);
 		
+		System.out.printf("정수값 출력 : %d", num1);
+		
 		
 		
 		
